@@ -1,1 +1,1 @@
-wscript.exe invisible.vbs doublecmdAsExplorer.bat
+wscript.exe invisible.vbs doublecmdAsExplorer.bat %1%
